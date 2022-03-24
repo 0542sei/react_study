@@ -1,0 +1,7 @@
+git clone https://github.com/0542sei/react_study   //
+
+cd react_study
+git status
+git add .
+git commit -m "test
+git push
